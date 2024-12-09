@@ -1,0 +1,8 @@
+.env
+db.sqlite3
+
+django_errors.log
+
+core/__pycache__/
+summerizer/__pycache__/
+summerizer/migrations/
